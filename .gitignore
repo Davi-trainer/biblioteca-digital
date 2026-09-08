@@ -1,0 +1,14 @@
+# Binários e Build
+*.class
+*.jar
+*.war
+target/
+build/
+
+# IDEs (Vital para colaboração mista)
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
